@@ -11,13 +11,13 @@ baseline includeForcingLayers modeldirectKillingOnBenthos modelResuspensionEffec
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-800
+73
 # nrow_coord
-28475
+37834
 # nrow_graph
-165161
+217002
 # a_port
-28461
+37827
 # grid res km over x and y
 3 6
 # is_individual_vessel_quotas
