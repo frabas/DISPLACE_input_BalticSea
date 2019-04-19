@@ -25,7 +25,7 @@ baseline includeForcingLayers modeldirectKillingOnBenthos modelResuspensionEffec
 #  check all stocks before going fishing (otherwise, explicit pops only)
 0
 # Go Fishing DTree
-GoFishing_Example.dt.csv
+GoFishing_BalticSea.dt.csv
 # Choose Ground DTree
 
 # Start Fishing DTree
@@ -33,7 +33,7 @@ GoFishing_Example.dt.csv
 # Change Ground DTree
 
 # Stop Fishing DTree
-
+StopFishing_BalticSea_tree.dt.csv
 # Change Port DTree
 
 # Use Dtrees
