@@ -84,6 +84,7 @@ stock  init_maturity_per_szgroup
 5 1
 5 1
 6 0
+6 0.1824
 6 0.3775
 6 0.6225
 6 0.8176
@@ -95,7 +96,6 @@ stock  init_maturity_per_szgroup
 6 0.9994
 6 0.9998
 6 0.9999
-6 1
 6 1
 7 0
 7 0.0431
