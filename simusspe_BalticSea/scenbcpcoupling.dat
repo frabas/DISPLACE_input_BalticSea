@@ -1,7 +1,7 @@
 # dyn_alloc_sce
 baseline focus_on_high_profit_grounds TACs FMSY area_monthly_closure
 # dyn_pop_sce
-baseline includeForcingLayers modelBenthosInLongevity modeldirectKillingOnBenthos modelResuspensionEffectOnBenthos modelShippingOnBenthos
+baseline nbcpCoupling includeForcingLayers modelBenthosInLongevity modeldirectKillingOnBenthos modelResuspensionEffectOnBenthos modelShippingOnBenthos
 # biolsce
 1
 # fleetsce
@@ -11,7 +11,7 @@ baseline includeForcingLayers modelBenthosInLongevity modeldirectKillingOnBentho
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-103
+100
 # nrow_coord
 37834
 # nrow_graph
