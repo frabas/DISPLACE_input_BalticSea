@@ -1,7 +1,7 @@
 # dyn_alloc_sce
 baseline focus_on_high_profit_grounds TACs FMSY area_monthly_closure
 # dyn_pop_sce
-baseline includeForcingLayers modelBenthosInLongevity modeldirectKillingOnBenthos modelResuspensionEffectOnBenthos modelShippingOnBenthos
+baseline includeForcingLayers modelBenthosInLongevity modeldirectKillingOnBenthos modelResuspensionEffectOnBenthos modelShippingOnBenthos sizeSpectra
 # biolsce
 1
 # fleetsce
