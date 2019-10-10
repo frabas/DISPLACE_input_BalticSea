@@ -1,7 +1,7 @@
 #TreeVersion: 7
 #TreeType: StopFishing
 # id,variable,posx,posy,nchld,children...,value
-0,vesselSizeIs,2435,2306,5,1,0,2,1,,1,,1,,1,0
+0,vesselSizeIs,2435,2306,5,1,0,,0,2,1,,1,,1,0
 1,catchVolumeIs,2225,2393,2,3,0,4,1,0
 2,catchVolumeIs,2573,2404,2,5,0,6,1,0
 3,fuelTankIs,2227,2484,2,7,0,8,1,0
