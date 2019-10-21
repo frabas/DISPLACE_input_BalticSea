@@ -1,0 +1,10 @@
+#TreeVersion: 7
+#TreeType: GoFishing
+# id,variable,posx,posy,nchld,children...,value
+0,vesselMetierIs,2442,2356,25,1,0,2,1,,1,,1,,1,,1,,1,,1,,1,,1,,0,,1,,1,,1,,0,,1,,1,,0,,0,,1,,1,,1,,1,,1,,1,0
+1,todayIs,2340,2487,2,3,0,4,1,0
+2,todayIs,2499,2534,2,5,0,6,1,0
+3,probability,2228,2628,0,0.65
+4,probability,2375,2612,0,0
+5,probability,2472,2692,0,0.8
+6,probability,2588,2644,0,0
